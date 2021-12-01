@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lib.h"
-
+ 
 int main(){
     char a;
     std::cin>> a;
