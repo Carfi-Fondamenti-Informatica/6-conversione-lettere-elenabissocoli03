@@ -7,3 +7,4 @@
 #define UNTITLED6_LIB_H
 char funzione(char a);
 #endif //UNTITLED6_LIB_H
+ 
